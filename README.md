@@ -13,3 +13,7 @@
 5.	Open file firstlearning-react, in the terminal, use command `npm run dev`
 
 ![frontend of command](https://github.com/wanjun3211/SmartHome/blob/main/frontend%20npm%20run%20dev.PNG)
+
+
+## How to use the App
+1. Open the link after npm run dev in the frontend
