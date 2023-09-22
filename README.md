@@ -16,4 +16,16 @@
 
 
 ## How to use the App
-1. Open the link after npm run dev in the frontend
+Open the link after npm run dev in the frontend, and following the order the picture and you could control the tuya bulb, turning on and off
+
+![homepage](https://github.com/wanjun3211/SmartHome/blob/main/homepage.PNG)
+
+![order1](https://github.com/wanjun3211/SmartHome/blob/main/light%20add1.PNG)
+
+![order2](https://github.com/wanjun3211/SmartHome/blob/main/light%20add2.PNG)
+
+![order3](https://github.com/wanjun3211/SmartHome/blob/main/light%20add3.PNG)
+
+![](https://github.com/wanjun3211/SmartHome/blob/main/light%20add4.PNG)
+
+![frontend of command](https://github.com/wanjun3211/SmartHome/blob/main/frontend%20npm%20run%20dev.PNG)
