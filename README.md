@@ -12,4 +12,4 @@
 
 5.	Open file firstlearning-react, in the terminal, use command `npm run dev`
 
-![backend of command](https://github.com/wanjun3211/SmartHome/blob/main/backend%20npm%20start.PNG)
+![frontend of command](https://github.com/wanjun3211/SmartHome/blob/main/frontend%20npm%20run%20dev.PNG)
