@@ -17,6 +17,11 @@
 
 ## How to use the App
 Open the link after npm run dev in the frontend, and following the order the picture and you could control the tuya bulb, turning on and off
+
+> [!NOTE]
+> The physcal device here is bulb manufactured by Tuya as it provides the API to connect. API information link: https://developer.tuya.com/en/docs/iot/device-control-best-practice-nodejs?id=Kaunfr776vomb
+
+
 Step 1
 ![homepage](https://github.com/wanjun3211/SmartHome/blob/main/homepage.PNG).
 
