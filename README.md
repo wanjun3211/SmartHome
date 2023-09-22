@@ -26,6 +26,6 @@ Open the link after npm run dev in the frontend, and following the order the pic
 
 ![order3](https://github.com/wanjun3211/SmartHome/blob/main/light%20add3.PNG)
 
-![](https://github.com/wanjun3211/SmartHome/blob/main/light%20add4.PNG)
+![order4](https://github.com/wanjun3211/SmartHome/blob/main/light%20add4.PNG)
 
-![frontend of command](https://github.com/wanjun3211/SmartHome/blob/main/frontend%20npm%20run%20dev.PNG)
+![order5](https://github.com/wanjun3211/SmartHome/blob/main/light%20add5.PNG)
