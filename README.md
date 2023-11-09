@@ -38,4 +38,4 @@ Step 5
 ![order4](https://github.com/wanjun3211/SmartHome/blob/main/5%20operate%20bulb.PNG)
 
 Step 6
-![order5](https://github.com/wanjun3211/SmartHome/blob/main/light%20add5.PNG)
+![order5](https://github.com/wanjun3211/SmartHome/blob/main/6%20final%20operation.PNG)
