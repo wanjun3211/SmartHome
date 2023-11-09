@@ -26,7 +26,7 @@ Step 1
 ![homepage](https://github.com/wanjun3211/SmartHome/blob/main/1%20homepage.PNG).
 
 Step 2
-![order1](https://github.com/wanjun3211/SmartHome/blob/main/light%20add1.PNG)
+![order1](https://github.com/wanjun3211/SmartHome/blob/main/2%20light.PNG)
 
 Step 3
 ![order2](https://github.com/wanjun3211/SmartHome/blob/main/light%20add2.PNG)
