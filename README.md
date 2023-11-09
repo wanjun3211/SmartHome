@@ -23,7 +23,7 @@ Open the link after npm run dev in the frontend, and following the order the pic
 
 
 Step 1
-![homepage](https://github.com/wanjun3211/SmartHome/blob/main/homepage.PNG).
+![homepage](https://github.com/wanjun3211/SmartHome/blob/main/1%20homepage.PNG).
 
 Step 2
 ![order1](https://github.com/wanjun3211/SmartHome/blob/main/light%20add1.PNG)
