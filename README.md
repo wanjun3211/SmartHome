@@ -35,7 +35,7 @@ Step 4
 ![order3](https://github.com/wanjun3211/SmartHome/blob/main/4%20add%20bulb.PNG)
 
 Step 5
-![order4](https://github.com/wanjun3211/SmartHome/blob/main/light%20add4.PNG)
+![order4](https://github.com/wanjun3211/SmartHome/blob/main/5%20operate%20bulb.PNG)
 
 Step 6
 ![order5](https://github.com/wanjun3211/SmartHome/blob/main/light%20add5.PNG)
